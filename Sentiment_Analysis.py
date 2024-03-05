@@ -16,4 +16,3 @@ def get_sentiment(text):
     
     return output[0]['label']
 
-
